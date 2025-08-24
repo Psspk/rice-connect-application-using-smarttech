@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114663718964",
+    "project_id": "riceconnect-ed41a",
+    "storage_bucket": "riceconnect-ed41a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114663718964:android:b8c21c86b955cab031ca61",
+        "android_client_info": {
+          "package_name": "com.example.rice_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIZuP2JYEAQjgIOpXFCCmjJKDvqOHs7WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

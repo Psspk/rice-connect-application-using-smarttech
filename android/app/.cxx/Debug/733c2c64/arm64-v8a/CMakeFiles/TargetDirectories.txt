@@ -1,0 +1,2 @@
+C:/Users/CALVARY/rice_connect/android/app/.cxx/Debug/733c2c64/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/CALVARY/rice_connect/android/app/.cxx/Debug/733c2c64/arm64-v8a/CMakeFiles/rebuild_cache.dir
